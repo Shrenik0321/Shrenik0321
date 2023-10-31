@@ -25,3 +25,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shrenik0321&" alt="shrenik0321" /></p>
 
+[![An image of @shrenik0321's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shrenik0321)](https://holopin.io/@shrenik0321)
+
